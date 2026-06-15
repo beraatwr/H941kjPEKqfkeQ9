@@ -486,7 +486,7 @@ local function createRubyHubMacLibCompat()
       Title = "Ruby Hub | Grow a Garden 2",
       SubTitle = "made by Ruby Hub Team",
       TabWidth = 160,
-      Size = opts.Size or UDim2.fromOffset(860, 620),
+      Size = opts.Size or UDim2.fromOffset(680, 540),
       Acrylic = false,
       Theme = "Rose",
       MinimizeKey = opts.Keybind or Enum.KeyCode.RightShift,
